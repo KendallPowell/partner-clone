@@ -1,6 +1,8 @@
-.bg-darkblue {
-  background-color: rgb(23, 62, 84);
-  height: 80vh;
+@media (min-width:768px) {
+  .bg-darkblue {
+    background-color: rgb(23, 62, 84);
+    height: 80vh;
+  }
 }
 
 .bg-highfive {
