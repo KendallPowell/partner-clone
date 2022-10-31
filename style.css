@@ -25,6 +25,11 @@
   object-fit: cover;
 }
 
+.pic-size {
+  height: 228px;
+  width: 295px;
+}
+
 
 .light-blue {
   border-color: #84D4E5;
@@ -40,6 +45,10 @@
 
 .text-orange {
   color: rgb(218, 120, 9);
+}
+
+.darkblue {
+  color: darkblue;
 }
 
 .bg-lb {
